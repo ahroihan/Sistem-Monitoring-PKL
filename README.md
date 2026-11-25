@@ -67,8 +67,7 @@ Tidak perlu daftar. Tidak perlu kartu kredit. Langsung coba:
 | Paket | Fitur | Harga |
 |---|---|---|
 | **Basic** | Semua fitur inti, 1 sekolah | Rp 5.000.000 |
-| **Pro** | + Multi-sekolah, custom branding | Rp 10
-000.000 |
+| **Pro** | + Multi-sekolah, custom branding | Rp 10.000.000 |
 | **Enterprise** | + On-premise, SLA, training | Hubungi Kami |
 
 *Diskon 20% untuk 3 sekolah pertama. harga untuk 1 tahun pertama*
