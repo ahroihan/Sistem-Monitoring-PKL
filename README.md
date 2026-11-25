@@ -5,10 +5,15 @@
 ## Dari Absensi GPS sampai Sidang Ujian Akhir — Semua di Satu Platform
 
 Sekolah Anda masih mengelola PKL dengan:
+
 ❌ Absensi manual (siswa bisa nitip absen)
+
 ❌ Jurnal kertas (hilang, sobek, basah)
+
 ❌ Nilai di-rekap manual (rawan salah hitung)
+
 ❌ Ujian akhir tidak terjadwal (penguji bentrok)
+
 ❌ Laporan dibuat berhari-hari (tanda tangan susah)
 
 **Sudah waktunya digitalisasi.** 🚀
@@ -31,7 +36,7 @@ Admin jadwalkan ujian dengan multi-penguji. Penguji nilai dari platform, sistem 
 
 ### 📄 5 Laporan Siap Cetak PDF
 - Daftar Peserta PKL
-- Kehadiran (grid 25 hari)
+- Kehadiran
 - Nilai dari Tempat PKL
 - Kunjungan Pembimbing
 - Laporan Akhir
@@ -42,7 +47,7 @@ Semua dengan header sekolah + tanda tangan Kepala Sekolah.
 Admin, guru pembimbing, guru penguji, siswa — masing-masing punya hak akses terpisah. Password terenkripsi Argon2id.
 
 ### 💾 Backup Otomatis
-Database backup setiap hari. Bisa download SQL/CSV kapan saja. Restore dengan 1 klik.
+Database backup setiap hari. Bisa download SQL kapan saja. Restore dengan 1 klik.
 
 ---
 
@@ -61,17 +66,18 @@ Tidak perlu daftar. Tidak perlu kartu kredit. Langsung coba:
 
 | Paket | Fitur | Harga |
 |---|---|---|
-| **Basic** | Semua fitur inti, 1 sekolah | Rp X |
-| **Pro** | + Multi-sekolah, custom branding | Rp 2X |
+| **Basic** | Semua fitur inti, 1 sekolah | Rp 5.000.000 |
+| **Pro** | + Multi-sekolah, custom branding | Rp 10
+000.000 |
 | **Enterprise** | + On-premise, SLA, training | Hubungi Kami |
 
-*Diskon 20% untuk 3 sekolah pertama.*
+*Diskon 20% untuk 3 sekolah pertama. harga untuk 1 tahun pertama*
 
 ---
 
 ## 📞 Konsultasi Gratis
-- 📱 WhatsApp: [Nomor Anda]
-- 📧 Email: [Email Anda]
-- 🌐 Website: [Website Anda]
+- 📱 WhatsApp: [+628888533125]
+- 📧 Email: [webiotid@gmail.com]
+- 🌐 Website: [https://webiot.id]
 
 **Tim kami siap demo 30 menit via Zoom/Google Meet.**
